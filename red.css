@@ -96,7 +96,7 @@ ul.post-meta span.post-meta-key {
 }
 
 .credit {
-	background: #90a090;
+	background: red;
 	border-top: 3px double #aba;
 	color: #fff;
 	font-size: 11px;
@@ -173,7 +173,7 @@ ul.post-meta span.post-meta-key {
 }
 
 #header {
-	background: #90a090;
+	background: red;
 	border-bottom: 3px double #aba;
 	border-left: 1px solid #9a9;
 	border-right: 1px solid #565;

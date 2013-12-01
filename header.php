@@ -25,7 +25,7 @@
 
 <body <?php body_class(); ?>>
 <div id="rap">
-<h1 id="header"><a href="<?php bloginfo('url'); ?>/"><?php bloginfo('name'); ?></a></h1>
+<h1 id="header"><a href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_option('nt_logo')?>"/></a></h1>
 
 <div id="content">
 <!-- end header -->
